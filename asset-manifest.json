@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/reactResturant/static/css/main.38688b0e.css",
+    "main.js": "/reactResturant/static/js/main.cd2cd2fd.js",
+    "index.html": "/reactResturant/index.html",
+    "main.38688b0e.css.map": "/reactResturant/static/css/main.38688b0e.css.map",
+    "main.cd2cd2fd.js.map": "/reactResturant/static/js/main.cd2cd2fd.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.38688b0e.css",
+    "static/js/main.cd2cd2fd.js"
+  ]
+}
