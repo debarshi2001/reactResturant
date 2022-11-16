@@ -1,0 +1,94 @@
+body{
+    margin: 0px;
+    padding: 0px;
+}
+.menu-card{
+    background-color:blanchedalmond;
+    padding: 20px;
+    /* display:inline-block; */
+    text-align: center;
+}
+
+.item-card{
+    background-color: white;
+    width: 31%;
+    height: 30%;
+    border: 2px gray solid;
+    border-radius: 5px;
+    padding:5px;
+    margin: 5px;
+    display: inline-block;
+}
+
+.card-box{
+    text-align: center;
+}
+
+.card-num{
+    font-family: "Impact";
+    font-size:small;
+}
+
+.dish-name{
+    padding: 0;
+    margin: 0px;
+    font-size: 150%;
+    font-family: system-ui, -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif;
+    color: black;
+    letter-spacing:3px;
+    font-weight: bolder;
+}
+
+.dish-catagory{
+    font-size:smaller;
+    font-style: italic;
+    font-family: system-ui;
+}
+
+.description-dish{
+    font-style: oblique;
+    font-size:15px;
+}
+
+.order-dish{
+    float:right;
+    font-family: monospace;
+    font-style: inherit;
+    color:teal;
+}
+
+.dish-img{
+    background-repeat: no-repeat;
+    width: 90%;
+    
+}
+
+.navbar{
+    margin: 5px;
+    padding:10px;
+    text-align: center;
+}
+
+.button-grp{
+    margin-left: auto;
+    margin-right: auto;
+    padding: 3px;
+    width: 30%;
+    border: 1px solid gray;
+    background-color: bisque;
+    border-radius: 5px;
+    
+}
+
+.btn-group__item{
+    margin: 5px;
+    font-size: 20px;
+    font-family:'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    color:darkblue;
+    border:0;
+    background:inherit;
+
+}
+.btn-group__item:hover{
+    text-decoration: underline;
+}
